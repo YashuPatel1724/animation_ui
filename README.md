@@ -1,16 +1,34 @@
-# animation_ui
+<h1 align="center">👉 Animation Daily Daily Task 👈</h1>
 
-A new Flutter project.
+<h3 align="center"> Animation Daily Second Task Video </h3>
+<div align="center">
+ <video src="https://github.com/user-attachments/assets/77ad4c56-6098-4cc6-aa6f-8f874143772e">
+</video>
+</div>
 
-## Getting Started
+<h3 align="center">👉 Animation Daily Second Task  Images👈</h3>
+<div align="center">
+  <img height="550"  src="https://github.com/user-attachments/assets/44df937c-38c8-4b6b-95d6-74e222c81acb" />
+  <img height="550"  src="https://github.com/user-attachments/assets/fcd4de5b-bb2b-4732-a2ab-040e8cca2943" />
+</div>
 
-This project is a starting point for a Flutter application.
+<div align="center">
+<a href="https://github.com/YashuPatel1724/animation_ui/blob/master/lib/animation%20align%20and%20container/first_task.dart">-> 📂 Go To Dart File 📂 </a>
+</div>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h3 align="center"> Animation Daily Third Task Video </h3>
+<div align="center">
+ <video src="https://github.com/user-attachments/assets/73681562-320a-43af-8a83-6d7120cc854c">
+</video>
+</div>
+
+<h3 align="center">👉 Animation Daily Third Task  Images👈</h3>
+<div align="center">
+  <img height="550"  src="https://github.com/user-attachments/assets/0bd8ce41-5fe4-453d-a68c-e7d2035ddc12" />
+</div>
+
+<div align="center">
+<a href="https://github.com/YashuPatel1724/animation_ui/blob/master/lib/animation%20align%20and%20container/seconfd_task.dart">-> 📂 Go To Dart File 📂 </a>
+</div>
